@@ -1,0 +1,17 @@
+1. As an authenticated user, I can register my business and update its details
+2. As an authenticated and authorized user, I can see the details of a business
+3. As an unauthenticated user, I can see all registered businesses
+4. As an authenticated and authorized user, I can update and delete my business 
+
+5. As an authenticated and authorized user, I can add a material of my business to make it available for trading 
+6. As an authenticated user, I can see the details of a registered business
+7. As an unauthenticated user, I can see all materials available for trading
+8. As an authenticated user of the company, I can update my company's materials details 
+9. As an authenticated and authorized user, I can delete materials
+
+10. As an authenticated user, I can see all active trades
+11. As a creator user, I can create and delete a trade
+
+12. As an unauthenticated user, I can see all environmental savings
+13. As an authenticated and authorized user, I can filter savings by business and material.
+

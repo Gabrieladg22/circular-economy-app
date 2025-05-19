@@ -1,0 +1,6 @@
+The main purpose of this app is to contribute to the health of the environment, to promote sustainability by reducing the waste of raw materials, water and energy needed to produce new items (the app will calculate environmental savings) and also by reducing the amount of materials in good conditions that are being discard and taken to landfills, turning them into nothing else than waste when their lifecycle hasn't even finished.
+
+After someone has finished a project and do not need certain materials, they can be posted in this app, to be donated to someone else in need of them or a trade can be arranged between 2 users instead of the both of them disposing their materials and getting brand new items. Every time a material is posted in the app, the database will store savings of CO2 emissions in kg and will let the user know how much they are savings by supporting the reuse of materials in good condition and avoiding the creation of a new one.
+
+UI:
+The user is able to log in, check out all registered businesses, register themselves as a business, check out the list of available materials, add a new material and if they have admin access, they can edit it or delete it. A user is also able to request a trade by clicking the createTrade button, edit or delete if they are admins.
