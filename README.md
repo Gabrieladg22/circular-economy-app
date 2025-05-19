@@ -19,4 +19,4 @@ This project was created as a capstone for a coding bootcamp and combines my bac
 
 ## 👩‍💻 Author
 Gabriela Diaz  
-[LinkedIn](www.linkedin.com/in/gabrieladiazgomez) | [GitHub](https://github.com/Gabrieladg22)
+[LinkedIn](https://www.linkedin.com/in/gabrieladiazgomez/) | [GitHub](https://github.com/Gabrieladg22)
